@@ -8,8 +8,8 @@ However, multiple reasons and hobbies keep me away from coding with no worries, 
 
 - Java `(good at it)`
 - Vue `(kind of good at it)`
+- Rust `(maybe good at it)`
 - C `(But seldom use)`
-- Rust `(learning)`
 
 ## Projects
 
