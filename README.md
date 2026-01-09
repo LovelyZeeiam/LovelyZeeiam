@@ -7,9 +7,10 @@ However, multiple reasons and hobbies keep me away from coding with no worries, 
 ## Language
 
 - Java `(good at it)`
-- Vue `(kind of good at it)`
-- Rust `(maybe good at it)`
+- Rust `(good at it, often used now)`
+- Python `(a script language)`
 - C `(But seldom use)`
+- HTML+JS+CSS `(But seldom use now)`
 
 ## Projects
 
